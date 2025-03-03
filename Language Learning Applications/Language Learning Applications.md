@@ -1,22 +1,13 @@
 ## Language Learning Applications
 
-Language learning has been transformed by technological advancements over the past two decades. 
-The language learning systems extend human capacity for vocabulary acquisition, grammatical understanding, and communicative competence. 
-Research by d'Apice et al. (2019) shows that children’s early life experiences of language significantly impact their cognitive and language development, indicates that language environments vary substantially not only between families but also within families across days, brings the dynamic nature of language acquisition contexts. 
-By understanding these complex connections between language input and development, we can create more effective language learning environments that address both [[receptive (comprehension)]] and [[Writing using AI Models|productive (writing)]] skills while accounting for the variability in language exposure that learners experience.
+Language learning has been transformed by technological advancements over the past two decades. The language learning systems extend human capacity for vocabulary acquisition, grammatical understanding, and communicative competence. Research by d'Apice et al. (2019) shows that children’s early life experiences of language significantly impact their cognitive and language development, indicates that language environments vary substantially not only between families but also within families across days, brings the dynamic nature of language acquisition contexts. By understanding these complex connections between language input and development, we can create more effective language learning environments that address both [[receptive (comprehension)]] and [[Writing using AI Models|productive (writing)]] skills while accounting for the variability in language exposure that learners experience.
 
 ### Foundation and Evolution
 
 Ellis (2019)  provides the essential theoretical foundations for understanding language cognition. 
-He argues that language learning involves complex cognitive processes including pattern recognition, memory systems, and attention mechanisms. 
-Effective language applications should align with the natural cognitive process rather than working against them. 
-Meanwhile, the research shows that exposure to language patterns impacts acquisition and it is beneficial for applications to provide repeated meaningful encounters with target language features. 
-When learners encounter language patterns frequently through comprehension activities, these patterns become more accessible during writing tasks, creating a virtuous cycle of learning.
+He argues that language learning involves complex cognitive processes including pattern recognition, memory systems, and attention mechanisms. Effective language applications should align with the natural cognitive process rather than working against them. Meanwhile, the research shows that exposure to language patterns impacts acquisition and it is beneficial for applications to provide repeated meaningful encounters with target language features. When learners encounter language patterns frequently through comprehension activities, these patterns become more accessible during writing tasks, creating a virtuous cycle of learning.
 
-Tracing the 20-year evolution of language learning technologies, the language learning applications shifting from isolated software packages to integrated, web-based, and mobile learning environments (Godwin-Jones, 2016). 
-The increasing personalization and adaptivity in language learning applications place more emphasis on authentic communication and meaningful language use. 
-Nowadays, applications increasingly recognize that language learning is not a linear process but rather an interconnected network of skills that develop in tandem and reinforce one another (Ellis, 2019). 
-This is supported by research showing that the quality of language interactions significantly impacts language development outcomes (Hirsh-Pasek et al., 2015).
+Tracing the 20-year evolution of language learning technologies, the language learning applications shifting from isolated software packages to integrated, web-based, and mobile learning environments (Godwin-Jones, 2016). The increasing personalization and adaptivity in language learning applications place more emphasis on authentic communication and meaningful language use. Nowadays, applications increasingly recognize that language learning is not a linear process but rather an interconnected network of skills that develop in tandem and reinforce one another (Ellis, 2019). This is supported by research showing that the quality of language interactions significantly impacts language development outcomes (Hirsh-Pasek et al., 2015).
 
 ### Systems and Approaches
 
