@@ -1,10 +1,12 @@
 ## Language Learning Applications
+
 Language learning has been transformed by technological advancements over the past two decades. 
 The language learning systems extend human capacity for vocabulary acquisition, grammatical understanding, and communicative competence. 
 Research by d'Apice et al. (2019) shows that children’s early life experiences of language significantly impact their cognitive and language development, indicates that language environments vary substantially not only between families but also within families across days, brings the dynamic nature of language acquisition contexts. 
 By understanding these complex connections between language input and development, we can create more effective language learning environments that address both [[receptive (comprehension)]] and [[Writing using AI Models|productive (writing)]] skills while accounting for the variability in language exposure that learners experience.
 
 ### Foundation and Evolution
+
 Ellis (2019)  provides the essential theoretical foundations for understanding language cognition. 
 He argues that language learning involves complex cognitive processes including pattern recognition, memory systems, and attention mechanisms. 
 Effective language applications should align with the natural cognitive process rather than working against them. 
@@ -16,20 +18,21 @@ The increasing personalization and adaptivity in language learning applications 
 Nowadays, applications increasingly recognize that language learning is not a linear process but rather an interconnected network of skills that develop in tandem and reinforce one another (Ellis, 2019). 
 This is supported by research showing that the quality of language interactions significantly impacts language development outcomes (Hirsh-Pasek et al., 2015).
 
-### Systems and Approcches
+### Systems and Approaches
+
 The contemporary language learning applications, employ a variety of evidence-based approaches designed to improve comprehension and production skills, reflecting the cognitive principles outlined by Ellis (2019) while employing technological innovations documented by Godwin-Jones (2016). 
-Spaced repetition systems like Duolingo implement algorithms based on the spacing effect, scheduling reviews at increasing intervals to optimize memory retention and vocabulary acquisition (Settles & Meeder, 2016; Siegel & Missier, 2017). 
-Similarly, adaptive learning platforms analyze learner performance to create personalized learning paths that operate within the learner's zone of proximal development, adjusting difficulty and content in response to demonstrated proficiency (Presson et al., 2013). 
-Besides, many language learning applications incorporate features that allow learners to practice with native speakers, creating bridges to [[Multilingual Content Management|multilingual collaborative environments]].
+
+Spaced repetition systems like Duolingo implement algorithms based on the spacing effect, scheduling reviews at increasing intervals to optimize memory retention and vocabulary acquisition (Settles & Meeder, 2016; Siegel & Missier, 2017).  Similarly, adaptive learning platforms analyze learner performance to create personalized learning paths that operate within the learner's zone of proximal development, adjusting difficulty and content in response to demonstrated proficiency (Presson et al., 2013).  Besides, many language learning applications incorporate features that allow learners to practice with native speakers, creating bridges to [[Multilingual Content Management|multilingual collaborative environments]].
 
 ### Connecting to Comprehension and Production
+
 By connecting [[Comprehension Augmentation Tools]] with [[Writing Enhancement Systems|writing enhancement technologies]] within a single ecosystem, language learning applications create environments where reading becomes a model for writing, and writing reinforces and deepens comprehension in a virtuous cycle of language development.
 
-Research by Huttenlocher et al. (2010) demonstrates that exposure to specific linguistic structures during comprehension activities significantly predicts learners' subsequent use of those structures in their own production, connecting from input to output language processing. 
-For example, these applications introduce a grammatical structure through reading-to-writing activities, highlight the structure explicitly through noticing activities, provide scaffolded practice with immediate feedback, and finally prompt open-ended production using the target form.
+Research by Huttenlocher et al. (2010) demonstrates that exposure to specific linguistic structures during comprehension activities significantly predicts learners' subsequent use of those structures in their own production, connecting from input to output language processing. For example, these applications introduce a grammatical structure through reading-to-writing activities, highlight the structure explicitly through noticing activities, provide scaffolded practice with immediate feedback, and finally prompt open-ended production using the target form.
 
 
 ### References
+
 d'Apice, Katrina & Latham, Rachel & Stumm, Sophie. (2019). A Naturalistic Home Observational Approach to Children's Language, Cognition, and Behavior. Developmental Psychology. 55. 10.1037/dev0000733. 
 
 Huttenlocher, J., Waterfall, H., Vasilyeva, M., Vevea, J., & Hedges, L. V. (2010). Sources of variability in children's language growth. Cognitive Psychology, 61(4), 343-365. https://doi.org/10.1016/j.cogpsych.2010.08.002
