@@ -23,7 +23,7 @@ Similarly, adaptive learning platforms analyze learner performance to create per
 Besides, many language learning applications incorporate features that allow learners to practice with native speakers, creating bridges to [multilingual collaborative environments]().
 
 ### Connecting to Comprehension and Production
-By connecting [comprehension tools]() with [writing enhancement technologies]() within a single ecosystem, language learning applications create environments where reading becomes a model for writing, and writing reinforces and deepens comprehension in a virtuous cycle of language development.
+By connecting [comprehension tools]() with [[Writing Enhancement Systems|writing enhancement technologies]] within a single ecosystem, language learning applications create environments where reading becomes a model for writing, and writing reinforces and deepens comprehension in a virtuous cycle of language development.
 
 Research by Huttenlocher et al. (2010) demonstrates that exposure to specific linguistic structures during comprehension activities significantly predicts learners' subsequent use of those structures in their own production, connecting from input to output language processing. 
 For example, these applications introduce a grammatical structure through reading-to-writing activities, highlight the structure explicitly through noticing activities, provide scaffolded practice with immediate feedback, and finally prompt open-ended production using the target form.
