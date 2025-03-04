@@ -12,9 +12,11 @@ Common translation software such as google translate allows users to translate t
 AR combines the virtual and the real world, superimposing virtual elements onto physical objects  
 this can be used to augment comprehension by increasing interaction or providing new ways to interact with a subject (Parmaxi & Demetriou, 2020). Much of the research in AR and reading comprehension is focused on its uses in [[Language learning applications]] be it adults learning a new language or children learning their first.  AR is often implemented using mobile devices (smartphones or tablets) but other technology such as wearables can potentially provide a more immersive AR experience thought at a higher cost.  Şimşek and Direkçi, (2023) investigated the use of AR with storybooks and how it effected students comprehension. They implemented AR as a application for a tablet that would allow users to interact with a textbook with their device. They found that overall comprehension of the books was improved by AR. 
 
+![[AR chart.png]]
+Chart that shows the types of software and devices used in AR (Parmaxi & Demetriou, 2020)
 #### Machine Learning
 
-AI powered tools have the potential to aide in language comprehension, either by providing summaries of documents or by identifying key ideas while currently AI performance in this is  unreliable It is likely it will improve quickly.
+AI powered tools have the potential to aide in language comprehension, either by providing summaries of documents or by identifying key ideas while currently AI performance in this is  unreliable It is likely it will improve quickly. AI powered tools also add accessibility options allowing media such as videos to be converted into a transcript or similar. 
 
 Machine learning is also promising for translation and given time may allow for live translation. 
 ## [[Ethical Considerations and Limitations]]
