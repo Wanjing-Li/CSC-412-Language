@@ -30,8 +30,11 @@ Lommel ([2016](https://www.researchgate.net/publication/382474730_Automating_Tra
 Future developments in multilingual CMS focus on context-aware adaptation and blockchain-backed content verification. Advances in natural language processing (NLP) allow AI models like GPT to refine translations by detecting contextual meaning rather than relying solely on direct word replacements. Additionally, blockchain technology offers a potential solution for verifying translation authenticity, maintaining traceability and preventing misinformation.
 
 ## Conclusion
-According to Lommel ([ 2016](https://www.researchgate.net/publication/382474730_Automating_Translation)), the continued evolution of multilingual CMS depends on their ability to integrate AI and automation while maintaining quality control through structured translation workflows. Multilingual CMS platforms serve as the backbone of global content strategies, ensuring that translation workflows remain efficient and linguistically precise. By integrating with static multilingual systems, machine translation tools, and cognitive augmentation systems, these platforms enhance accessibility, adaptability, and accuracy in multilingual communication. As AI and automation evolve, multilingual CMS solutions will become more sophisticated, allowing for greater contextual understanding and seamless multilingual content management.
+According to Lommel ([2016](https://www.researchgate.net/publication/382474730_Automating_Translation)), the continued evolution of multilingual CMS depends on their ability to integrate AI and automation while maintaining quality control through structured translation workflows. Multilingual CMS platforms serve as the backbone of global content strategies, ensuring that translation workflows remain efficient and linguistically precise. By integrating with static multilingual systems, machine translation tools, and cognitive augmentation systems, these platforms enhance accessibility, adaptability, and accuracy in multilingual communication. As AI and automation evolve, multilingual CMS solutions will become more sophisticated, allowing for greater contextual understanding and seamless multilingual content management.
 
+## References
+- **Forcada, M. L. (2023)**. Automating translation. _ResearchGate_. https://www.researchgate.net/publication/382474730_Automating_Translation
+  
 
 
 
