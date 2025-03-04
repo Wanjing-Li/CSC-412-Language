@@ -13,7 +13,7 @@ These tools focus upon giving the writer quick and immediate feedback and aid (A
 
 These tools have significant overlap with various [[Comprehension Augmentation Tools]]. Both forms of tools are intended to allow the individual using them to both understand what others are saying and to help them be understood. This is similarly true of [[Text-Based Comprehension Tools]], though those are focused upon understanding existing texts.
 
-Though using [[Multilingual-Collaboration-Systems/Automatic Speech Recognition|Automatic Speech Recognition]] to help people compose written works is mostly limited to short-form writing and queries to other systems at the present, it is possible that we will figure out better ways to use it either as an alternative to physical writing or as a method to help people with difficulty writing but not speaking a language to write.
+Though using [[Automatic Speech Recognition]] to help people compose written works is mostly limited to short-form writing and queries to other systems at the present, it is possible that we will figure out better ways to use it either as an alternative to physical writing or as a method to help people with difficulty writing but not speaking a language to write.
 ### References
 
 - Allen, L. K., Jacovina, M. E., & McNamara, D. S. (2016). Computer-based writing instruction. In C. A. MacArthur, S. Graham, & J. Fitzgerald (Eds.), Handbook of writing research (2nd ed., pp. 316-329). The Guilford Press.
