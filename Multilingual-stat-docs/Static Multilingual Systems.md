@@ -13,7 +13,7 @@ A key example is SYSTRAN, a rule-based model widely implemented in government an
 ### Translation Memory (TM) Systems
 Unlike RBMT, Translation Memory (TM) systems store previously translated phrases and sentences, retrieving them for reuse in similar contexts. TM ensures consistency across multilingual documents, reducing translation errors and human workload.
 
-Industries requiring precise regulatory compliance, such as finance and healthcare, heavily depend on TM systems to standardize terminology across large-scale documentation. SDL Trados Studio, for instance, has become a staple in professional translation, allowing linguistic alignment across corporate, legal, and medical texts. Bapna et al. ([2018](https://arxiv.org/pdf/1804.09849.pdf), highlight that TM plays a critical role in ensuring accuracy in specialized fields where mistranslations could have regulatory consequences.
+Industries requiring precise regulatory compliance, such as finance and healthcare, heavily depend on TM systems to standardize terminology across large-scale documentation. SDL Trados Studio, for instance, has become a staple in professional translation, allowing linguistic alignment across corporate, legal, and medical texts. Bapna et al. ([2018](https://arxiv.org/pdf/1804.09849.pdf)), highlight that TM plays a critical role in ensuring accuracy in specialized fields where mistranslations could have regulatory consequences.
 
 ### Pre-Trained Multilingual Models
 A growing category within static multilingual systems includes pre-trained multilingual AI models, such as Multilingual BERT (mBERT). Unlike TM or RBMT, these models operate on fixed training data, providing high-quality translations while maintaining contextual stability.
@@ -25,7 +25,7 @@ For example, mBERT has been used to enhance cross-lingual comprehension in setti
 ### Legal and Government Translation
 Static multilingual systems are fundamental in legal translation, where ambiguous or inconsistent language use can lead to legal disputes. Government institutions, such as the European Union Directorate-General for Translation, rely on RBMT and TM systems to ensure accuracy across multilingual legal frameworks.
 
-However, concerns regarding translation bias persist.Bender et al.([ 2021](https://dl.acm.org/doi/10.1145/3442188.3445922)) warn that static translation datasets may favor dominant legal traditions, raising ethical concerns about fairness in multilingual legal interpretation.
+However, concerns regarding translation bias persist.Bender et al.([2021](https://dl.acm.org/doi/10.1145/3442188.3445922)) warn that static translation datasets may favor dominant legal traditions, raising ethical concerns about fairness in multilingual legal interpretation.
 
 ### Healthcare and Medical Documentation
 
@@ -52,3 +52,8 @@ Future iterations of static multilingual systems may integrate AI-assisted trans
 ## Conclusion
 Static multilingual systems remain indispensable for industries where accuracy, consistency, and controlled translation workflows are required. Their integration with machine translation tools, translation memory systems, and multilingual content management platforms ensures that language processing remains structured and regulation-compliant. While static systems will continue to serve as the gold standard for structured translation, future developments in AI-enhanced adaptation may introduce greater flexibility while preserving their core reliability.
 
+## References
+
+- **Bahdanau, D., Cho, K., & Bengio, Y.** (2015). Neural machine translation by jointly learning to align and translate. _International Conference on Learning Representations_ (ICLR) 2015. arXiv:1409.0473. https://arxiv.org/pdf/1409.0473
+- **Koehn, P., & Knowles, R.** (2017). Six challenges for neural machine translation. _Proceedings of the First Workshop on Neural Machine Translation_, 28–39. https://aclanthology.org/W17-3204.pdf​
+- **Bender, E. M., Gebru, T., McMillan-Major, A., & Shmitchell, S.** (2021). On the dangers of stochastic parrots: Can language models be too big?_ Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency_, 610–623. https://doi.org/10.1145/3442188.3445922​
