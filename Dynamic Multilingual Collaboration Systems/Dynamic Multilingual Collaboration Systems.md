@@ -12,7 +12,7 @@ Speech-based communication is an essential tool for human cooperation and unders
 ### Real-time Translation Interfaces
 Dynamic Translation has three components:
 - [[Automatic Speech Recognition]]
-- [[Machine Translation]] (also a component of [[Static Multilingual Systems]])
+- [[Machine Translation Tools]] (also a component of [[Static Multilingual Systems]])
 - [[Voice Synthesis]]
 
 Systems like Microsoft Teams Translator, Google Meet Translator, and Spoken Google Translate provide simultaneous translation of spoken communication, reducing barriers to real-time collaboration.
