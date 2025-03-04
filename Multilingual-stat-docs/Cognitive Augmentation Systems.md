@@ -53,3 +53,9 @@ Cognitive augmentation systems enhance human cognitive abilities by integrating 
 
 Cognitive augmentation systems are transforming **language learning, translation, and comprehension** by integrating AI-driven tools that reduce cognitive strain and enhance memory. As technology advances, these systems will evolve from **assistive tools to deeply integrated cognitive enhancers**, reshaping how we process and interact with multilingual information.
 
+## References 
+- **Laufer, B., & Hulstijn, J. H. (2001)**. Incidental vocabulary acquisition in a second language: The construct of task-induced involvement._ Applied Linguistics_, 22(1), 1–26.https://academic.oup.com/applij/article/22/1/1/165145
+- **Bostrom, N., & Yudkowsky, E. (2011).** The ethics of artificial intelligence. In W. Ramsey & K. Frankish (Eds.), _The Cambridge Handbook of Artificial Intelligence _(pp. 316–334). Cambridge University Press.
+https://nickbostrom.com/ethics/artificial-intelligence.pdf
+- **Russell, S., & Norvig, P. (2010).** Artificial intelligence: A modern approach (3rd ed.). Prentice Hall.
+https://www.sciencedirect.com/science/article/abs/pii/B9780123876911000028?via%3Dihub
