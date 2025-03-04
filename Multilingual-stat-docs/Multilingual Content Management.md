@@ -1,6 +1,6 @@
 ## **Introduction**
 
-In a globalized world, multilingual content management systems (CMS) ensure that information is consistently and accurately communicated across languages. Unlike basic translation tools, these systems handle structured content localization, integrating with **[[static multilingual systems(main node)]]** and **[[translation memory systems(node 3)]]** to support seamless multilingual workflows. Their role extends beyond direct translation, incorporating content structuring, terminology management, and adaptive technologies to optimize efficiency.
+In a globalized world, multilingual content management systems (CMS) ensure that information is consistently and accurately communicated across languages. Unlike basic translation tools, these systems handle structured content localization, integrating with [[static multilingual systems]] and [[translation memory systems]] to support seamless multilingual workflows. Their role extends beyond direct translation, incorporating content structuring, terminology management, and adaptive technologies to optimize efficiency.
 
 ## **Key Multilingual Content Management Systems**
 

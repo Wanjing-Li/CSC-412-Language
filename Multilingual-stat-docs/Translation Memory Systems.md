@@ -1,6 +1,6 @@
 ## Introduction
 
-Translation Memory (TM) systems are essential tools in **[[multilingual content management(node 1)]]**, aiding human translators by storing previously translated phrases and sentences for future reuse. Unlike **[[machine translation tools(node 3)]]**, which generate translations autonomously, TM systems retrieve stored translations to maintain consistency, efficiency, and accuracy in large-scale translation projects. These systems are widely used in legal, medical, and corporate settings, where precise and uniform translation is critical.
+Translation Memory (TM) systems are essential tools in **[[multilingual content management]]**, aiding human translators by storing previously translated phrases and sentences for future reuse. Unlike **[[machine translation tools]]**, which generate translations autonomously, TM systems retrieve stored translations to maintain consistency, efficiency, and accuracy in large-scale translation projects. These systems are widely used in legal, medical, and corporate settings, where precise and uniform translation is critical.
 
 ## Core Functionality of Translation Memory Systems
 TM systems operate by segmenting text into translatable units and storing them in a database. When a similar or identical segment appears in a new translation task, the system suggests a pre-existing translation to the user.
@@ -15,11 +15,11 @@ Unlike machine translation tools, which can struggle with domain-specific accura
 ## Integration with Other Multilingual Systems
 
 ### 1. Translation Memory in Multilingual CMS
-TM systems are commonly integrated into **[[multilingual content management(node 1)]]** programs to support enterprise-level localization and document standardization.
+TM systems are commonly integrated into **[[multilingual content management]]** programs to support enterprise-level localization and document standardization.
 **Example:** Smartling uses TM features to optimize corporate translation processes, reducing costs and duplication.
 
 ### 2. Translation Memory and Text-Based Comprehension
-**[[Text-based comprehension tools(node4)]]** benefit from TM integration by ensuring simplified text remains consistent across multiple languages
+**[[Text-based comprehension tools]]** benefit from TM integration by ensuring simplified text remains consistent across multiple languages
 **Example:** AI-driven comprehension platforms can use TM-based models to refine text adaptation for accessibility and readability.
 
 ## Challenges and Future Innovations
