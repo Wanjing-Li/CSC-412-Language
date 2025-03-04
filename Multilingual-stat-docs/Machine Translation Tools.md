@@ -22,6 +22,10 @@ Example: Google Translate (pre-2016) applied SMT to improve translation accuracy
 NMT leverages deep learning models to generate context-aware translations by considering entire sentences rather than word-for-word mappings.
 **Example:** Modern Google Translate, DeepL, and OpenAI’s GPT-based models rely on NMT to produce more natural and fluid translations.
 
+![Machine Translation Timeline](https://github.com/Sasha-King/CSC-412-Language/blob/main/Images%20and%20figures/Machine%20translation%20timeline.png?raw=true)
+
+As illustrated above, the progression of machine translation spans decades, improving accuracy and contextual understanding.
+
 ## Integration with Other Multilingual Systems
 
 ### 1. Machine Translation and Multilingual CMS
