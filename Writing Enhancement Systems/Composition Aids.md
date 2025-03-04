@@ -9,6 +9,9 @@ Tools like [Grammarly](https://www.grammarly.com/) try to take this a step furth
 Many experiments such as the one described in [Dizon and Gayed's paper](https://www.castledown.com.au/journals/jaltcall/article/view/jaltcall.v17n2.336) (2021) have been conducted to evaluate the effectiveness of composition aids such as Grammarly. The results are generally positive, with a noticeable comparative improvement in how fast students who are learning English as a foreign language learn and conceptualize basic grammar in writing when using Grammarly as opposed to without. This improvement also extended into more complex elements of writing.
 
 These tools focus upon giving the writer quick and immediate feedback and aid (Allen L. et al 2016). They allow the writer to focus more on what they want to express instead of making sure that they've already expressed it in a way that makes sense syntactically, reducing the amount of cognitive effort required. For people learning the language or new words, these tools also allow them to experiment more with unfamiliar words while ensuring that these experiments contribute to the learning process directly with quick feedback (Dizon et al, 2021).
+### Connections
+
+These tools have significant overlap with various [[Comprehension Augmentation Tools]]. Both forms of tools are intended to allow the individual using them to both understand what others are saying and to help them be understood. This is similarly true of [[Text-Based Comprehension Tools]], though those are focused upon understand existing texts.
 ### References
 
 - Allen, L. K., Jacovina, M. E., & McNamara, D. S. (2016). Computer-based writing instruction. In C. A. MacArthur, S. Graham, & J. Fitzgerald (Eds.), Handbook of writing research (2nd ed., pp. 316-329). The Guilford Press.
