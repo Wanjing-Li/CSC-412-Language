@@ -13,7 +13,18 @@ Tracing the 20-year evolution of language learning technologies, the language le
 
 The contemporary language learning applications, employ a variety of evidence-based approaches designed to improve comprehension and production skills, reflecting the cognitive principles outlined by Ellis (2019) while employing technological innovations documented by Godwin-Jones (2016). 
 
-Spaced repetition systems like Duolingo implement algorithms based on the spacing effect, scheduling reviews at increasing intervals to optimize memory retention and vocabulary acquisition (Settles & Meeder, 2016; Siegel & Missier, 2017).  Similarly, adaptive learning platforms analyze learner performance to create personalized learning paths that operate within the learner's zone of proximal development, adjusting difficulty and content in response to demonstrated proficiency (Presson et al., 2013).  Besides, many language learning applications incorporate features that allow learners to practice with native speakers, creating bridges to [[Multilingual Content Management|multilingual collaborative environments]].
+Spaced repetition systems like Duolingo implement algorithms based on the spacing effect, scheduling reviews at increasing intervals to optimize memory retention and vocabulary acquisition (Settles & Meeder, 2016; Siegel & Missier, 2017). Spaced repetition systems like Duolingo implement algorithms based on the spacing effect, scheduling reviews at increasing intervals to optimize memory retention and vocabulary acquisition (Settles & Meeder, 2016; Siegel & Missier, 2017). Research from Duolingo (Portnoff et al.) demonstrates the importance of well-designed assessment systems for self-directed learning platforms. Two primary assessment approaches have proven effective:
+- **Checkpoint Quiz**: A custom-built achievement test that measures learner progress at the completion of a course unit. The pre-test/post-test design establishes a baseline level of performance to assess knowledge gain.
+- **Review Exercises**: Integrated assessment items that prompt learners to review content from earlier skills, inserted into randomly selected lessons.
+  
+| Checkpoint Quiz                            | Review Exercises                      |
+| ------------------------------------------ | ------------------------------------- |
+| Slow data collection (only at Checkpoints) | Fast data collection (at every skill) |
+| Tagged and calibrated by experts           | Not tagged or calibrated              |
+| Items siloed from course                   | Items sampled from course             |
+| Only certain courses                       | All courses                           |
+
+Similarly, adaptive learning platforms analyze learner performance to create personalized learning paths that operate within the learner's zone of proximal development, adjusting difficulty and content in response to demonstrated proficiency (Presson et al., 2013).  Besides, many language learning applications incorporate features that allow learners to practice with native speakers, creating bridges to [[Multilingual Content Management|multilingual collaborative environments]].
 
 ### Connecting to Comprehension and Production
 
@@ -37,3 +48,5 @@ Hirsh-Pasek, K., Adamson, L. B., Bakeman, R., Owen, M. T., Golinkoff, R. M., Pac
 Presson, Nora & Davy, Colleen & Macwhinney, Brian. (2013). Experimentalized CALL for adult second language learners. Innovative Research and Practices in Second Language Acquisition and Bilingualism. 38. 139. 10.1075/lllt.38.10pre. 
 
 Settles, Burr & Meeder, Brendan. (2016). A Trainable Spaced Repetition Model for Language Learning. 1848-1858. 10.18653/v1/P16-1174. 
+
+Portnoff, L., Gustafson, E., Rollinson, J., & Bicknell, K. (2021). Methods for Language Learning Assessment at Scale: Duolingo Case Study. 1 In _Proceedings of the 14th International Conference on Educational Data Mining (EDM). 
