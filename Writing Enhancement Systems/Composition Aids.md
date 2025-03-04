@@ -11,7 +11,9 @@ Many experiments such as the one described in [Dizon and Gayed's paper](https://
 These tools focus upon giving the writer quick and immediate feedback and aid (Allen L. et al 2016). They allow the writer to focus more on what they want to express instead of making sure that they've already expressed it in a way that makes sense syntactically, reducing the amount of cognitive effort required. For people learning the language or new words, these tools also allow them to experiment more with unfamiliar words while ensuring that these experiments contribute to the learning process directly with quick feedback (Dizon et al, 2021).
 ### Connections
 
-These tools have significant overlap with various [[Comprehension Augmentation Tools]]. Both forms of tools are intended to allow the individual using them to both understand what others are saying and to help them be understood. This is similarly true of [[Text-Based Comprehension Tools]], though those are focused upon understand existing texts.
+These tools have significant overlap with various [[Comprehension Augmentation Tools]]. Both forms of tools are intended to allow the individual using them to both understand what others are saying and to help them be understood. This is similarly true of [[Text-Based Comprehension Tools]], though those are focused upon understanding existing texts.
+
+Though using [[Multilingual-Collaboration-Systems/Automatic Speech Recognition|Automatic Speech Recognition]] to help people compose written works is mostly limited to short-form writing and queries to other systems at the present, it is possible that we will figure out better ways to use it either as an alternative to physical writing or as a method to help people with difficulty writing but not speaking a language to write.
 ### References
 
 - Allen, L. K., Jacovina, M. E., & McNamara, D. S. (2016). Computer-based writing instruction. In C. A. MacArthur, S. Graham, & J. Fitzgerald (Eds.), Handbook of writing research (2nd ed., pp. 316-329). The Guilford Press.
