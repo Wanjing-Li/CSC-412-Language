@@ -13,6 +13,10 @@ A key example is SYSTRAN, a rule-based model widely implemented in government an
 ### Translation Memory (TM) Systems
 Unlike RBMT, Translation Memory (TM) systems store previously translated phrases and sentences, retrieving them for reuse in similar contexts. TM ensures consistency across multilingual documents, reducing translation errors and human workload.
 
+![Translation Workflow](https://github.com/Sasha-King/CSC-412-Language/blob/main/Images%20and%20figures/Translation%20Work%20flow.png?raw=true)
+
+As shown above, TM systems streamline multilingual content processing, ensuring faster and more accurate translations.
+
 Industries requiring precise regulatory compliance, such as finance and healthcare, heavily depend on TM systems to standardize terminology across large-scale documentation. SDL Trados Studio, for instance, has become a staple in professional translation, allowing linguistic alignment across corporate, legal, and medical texts. Bapna et al. ([2018](https://arxiv.org/pdf/1804.09849.pdf)), highlight that TM plays a critical role in ensuring accuracy in specialized fields where mistranslations could have regulatory consequences.
 
 ### Pre-Trained Multilingual Models
