@@ -36,3 +36,8 @@ Future TM systems will likely incorporate adaptive AI to refine translation reca
 
 ## Conclusion
 Translation Memory systems are indispensable for ensuring accuracy, efficiency, and consistency in multilingual workflows. By integrating with multilingual content management, text comprehension tools, and AI-driven translation models, TM systems will continue evolving to meet the demands of global communication. Future advancements will focus on context-aware AI enhancements and bias mitigation, ensuring that TM systems remain reliable in an increasingly digital and multilingual world.
+
+## Reference
+- **Bahdanau, D., Cho, K., & Bengio, Y.** (2015). Neural machine translation by jointly learning to align and translate. _International Conference on Learning Representations_ (ICLR) 2015. arXiv:1409.0473. https://arxiv.org/pdf/1409.0473
+- **Koehn, P., & Knowles, R.** (2017). Six challenges for neural machine translation. _Proceedings of the First Workshop on Neural Machine Translation_, 28–39. https://aclanthology.org/W17-3204.pdf​
+- **Bender, E. M., Gebru, T., McMillan-Major, A., & Shmitchell, S.** (2021). On the dangers of stochastic parrots: Can language models be too big?_ Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency_, 610–623. https://doi.org/10.1145/3442188.3445922​
