@@ -45,3 +45,7 @@ Future comprehension tools will incorporate adaptive learning models to customiz
 
 ## Conclusion
 Text-based comprehension tools bridge the gap between complex language structures and user-friendly readability, enhancing education, multilingual communication, and accessibility. Their integration with translation memory systems, multilingual content management, and machine translation tools ensures consistent and accurate adaptation across diverse languages. As AI-driven comprehension continues to evolve, future innovations will focus on refining context-aware adaptation, bias mitigation, and personalized text enhancement, making these tools even more essential in global communication.
+
+## References
+- **Siddharthan, A.** (2014). A survey of research on text simplification. _International Journal of Applied Linguistics_, 165(2), 259–298. https://doi.org/10.1075/itl.165.2.06sid​
+- **Dionisio, G., Pascual, L. C., & Ilustre, R. G.** (2022). Vocabulary acquisition and learning strategies in second language learning: A review paper. _International Journal of English Language Studies_, 4(3), 58–62. https://doi.org/10.32996/ijels.2022.4.3.9​
