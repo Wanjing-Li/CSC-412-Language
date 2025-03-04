@@ -11,10 +11,14 @@
             "id": "8698e084862b0fc3",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Ethical Considerations and Limitations.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ethical Considerations and Limitations"
             }
           }
         ]
@@ -163,6 +167,10 @@
   },
   "active": "8698e084862b0fc3",
   "lastOpenFiles": [
+    "Main Note.md",
+    "Multilingual-stat-docs/Text-Based Comprehension Tools.md",
+    "Multilingual-stat-docs/Static Multilingual Systems.md",
+    "language learning systems.md",
     "Comprehension Augmentation Tools/Comprehension Augmentation Tools.md",
     "receptive (comprehension).md",
     "Language Learning Applications/Language Learning Applications.md"
