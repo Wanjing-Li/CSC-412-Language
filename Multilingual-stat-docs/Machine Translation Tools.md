@@ -55,6 +55,9 @@ Emerging trends in adaptive machine translation focus on real-time learning and 
 ## Conclusion
 Machine translation tools continue to revolutionize multilingual communication by integrating with multilingual content management systems, cognitive augmentation systems, and translation memory systems. While neural models have significantly improved accuracy, ongoing advancements in context-aware AI, bias mitigation, and adaptive learning will further refine machine translation capabilities, making them indispensable in a globalized digital landscape.
 
-
-
+## Reference
+- **Bahdanau, D., Cho, K., & Bengio, Y. (2015)**. Neural machine translation by jointly learning to align and translate. _International Conference on Learning Representations_ (ICLR) 2015. arXiv:1409.0473. https://arxiv.org/pdf/1409.0473​
+- **Koehn, P., & Knowles, R.** (2017). Six challenges for neural machine translation. _Proceedings of the First Workshop on Neural Machine Translation_, 28–39. https://aclanthology.org/W17-3204.pdf​
+- **Chen, M. X., Firat, O., Bapna, A., Johnson, M., Macherey, W., Foster, G., ... & Wu, Y. (2018)**. The best of both worlds: Combining recent advances in neural machine translation. arXiv:1804.09849. https://arxiv.org/pdf/1804.09849​
+- Bender, E. M., Gebru, T., McMillan-Major, A., & Shmitchell, S. (2021). On the dangers of stochastic parrots: Can language models be too big? _Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency_, 610–623. https://doi.org/10.1145/3442188.3445922​
 
