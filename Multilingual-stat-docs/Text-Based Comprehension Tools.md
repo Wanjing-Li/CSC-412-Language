@@ -20,6 +20,10 @@ Connection: Frequently paired with machine translation tools to enhance cross-la
 Advanced NLP models refine text by detecting ambiguity, bias, and contextual inconsistencies, improving clarity and meaning retention.
 **Example:**  DeepL’s translation engine uses AI-powered context awareness to generate more precise multilingual adaptations.
 
+![Example of Text Comprehension - DeepL Interface](https://github.com/Sasha-King/CSC-412-Language/blob/main/Images%20and%20figures/example%20of%20text%20comprehension-%20DeepL%20Interface.png?raw=true)
+
+As illustrated above, AI-driven text comprehension interfaces simplify multilingual understanding by offering precise translations and adaptive feedback.
+
 ## Interoperability with Other Multilingual Systems
 
 ### 1. Text-Based Comprehension and Translation Memory (node 3)
