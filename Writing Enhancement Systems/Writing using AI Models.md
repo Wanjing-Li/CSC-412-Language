@@ -10,9 +10,6 @@ The greatest advantage AI should theoretically be able to provide when helping i
 ### Connections
 
 Many studies have been performed to test the use of AI as a potential method of improving a learner's ability to study different languages, and using them to write better is only a single aspect of this. Using AI systems as [[Translation Memory Systems|a translation tool]] for learning to comprehend written text is a common example of this.
-### Concerns
-
-This topic has a lot of controversy associated with it. By far the most notable concern specific to using AIs for learning is the possibility of relying on the AI for topic ideas and direction could damage the writer's ability to find a direction for their own unaided topics in the future. This concern is only exacerbated by other concerns associated with Composition Aids should an AI also be used that purpose at the same time, as described on the corresponding page.
 ### References
 
 - Yang Feng and Xiya Wang. 2025. Exploring the Development of Chinese College Students' Proficiency in English through ChatGPT: An Experimental Study. In Proceedings of the 2024 16th International Conference on Education Technology and Computers (ICETC '24). Association for Computing Machinery, New York, NY, USA, 148–154. https://doi-org.ezproxy.library.uvic.ca/10.1145/3702163.3702184
