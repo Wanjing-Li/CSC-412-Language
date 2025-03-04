@@ -12,7 +12,7 @@ Speech-based communication is an essential tool for human cooperation and unders
 ### Real-time Translation Interfaces
 Dynamic Translation has three components:
 - [[Automatic Speech Recognition]]
-- Machine Translation (i.e. [[Static Multilingual Systems]])
+- [[Machine Translation]] (also a component of [[Static Multilingual Systems]])
 - [[Voice Synthesis]]
 
 Systems like Microsoft Teams Translator, Google Meet Translator, and Spoken Google Translate provide simultaneous translation of spoken communication, reducing barriers to real-time collaboration.
@@ -30,13 +30,14 @@ Dynamic multilingual collaboration systems can:
 
 ## Future Directions
 
-These systems are now largely integrated in video calling and mobile applications, but a major improvement area for these is real-time, in-person translation, through technologies like earphone translation (often compared to [Babel Fish](https://en.wikipedia.org/wiki/The_Hitchhiker's_Guide_to_the_Galaxy#Future_predictions)) and virtual or augmented reality. There are some technical constraints on speed for this technology due to different languages using differing [Subject-Verb-Object Order](https://en.wikipedia.org/wiki/Subject%E2%80%93verb%E2%80%93object_word_order), which would mean someone speaking English would have to wait for someone speaking Greek to finish their sentence before hearing the verb. This means that within these languages, translation can't be in real time word-to-word, but rather sentence-to-sentence, which could be a challenge and source of frustration with the products when talking to other people in corporate environments.
+These systems are now largely integrated in video calling and mobile applications, but a major improvement area for these is real-time, in-person translation, through technologies like earphone translation (often compared to [Babel Fish](https://en.wikipedia.org/wiki/The_Hitchhiker's_Guide_to_the_Galaxy#Future_predictions)) and virtual or augmented reality. There are some technical constraints on speed for this technology due to different languages using differing [Subject-Verb-Object Order](https://books.google.co.uk/books?id=MWbrvUiYzSkC&pg=PA36#v=onepage&q&f=false), which would mean someone speaking English would have to wait for someone speaking Japanese to finish their sentence before hearing the verb.
+![[SVO-Order.png]] (Meyer, 2010)
+This means that within these languages, translation can't be in real time word-to-word, but rather sentence-to-sentence, which could be a challenge and source of frustration with the products when talking to other people in corporate environments.
+Another exiting development in the field of dynamic multilingual collaboration is the rise of widespread generative AI, which are better at simplifying text while simultaneously having a higher average word diversity, which might create more accurate and easy to understand translations than even humans are capable of. (Fu & Liu, 2024)
 ## References
 
-- Depalma, D. A., & Kelly, N. (2011). Project management for crowdsourced translation: How user-translated content projects work in real life. In K. J. Dunne & E. S. Dunne (Eds.), Translation and localization project management: The art of the possible (pp. 379-408). John Benjamins.
-
-- Liao, H. C., & Loi, C. K. (2021). Examining the use of machine translation in social media communication between bilinguals. Journal of Multilingual and Multicultural Development, 1-17.
-
-- Nitzke, J., Hansen-Schirra, S., & Canfora, C. (2019). Risk management and post-editing competence. The Journal of Specialised Translation, 31, 239-259.
-
 - Yamashita, N., & Ishida, T. (2006). Effects of machine translation on collaborative work. Proceedings of the 2006 20th Anniversary Conference on Computer Supported Cooperative Work, 515-524.
+
+- Meyer, Charles F. (2010). Introducing English Linguistics (Student ed.). Cambridge University Press. p. 36.
+
+- Fu, L., & Liu, L. (2024). What are the differences? A comparative study of generative artificial intelligence translation and human translation of scientific texts. _Humanities and Social Sciences Communications_, _11_(1), 1-12.
