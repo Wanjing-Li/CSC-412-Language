@@ -17,9 +17,7 @@ this can be used to augment comprehension by increasing interaction or providing
 AI powered tools have the potential to aide in language comprehension, either by providing summaries of documents or by identifying key ideas while currently AI performance in this is  unreliable It is likely it will improve quickly.
 
 Machine learning is also promising for translation and given time may allow for live translation. 
-## Ethical Considerations 
-
-The more advanced systems for comprehension (particularly machine learning and AR) require a massive amount of data to work which raises privacy concerns. AR also raises accessibility issues as many AR systems rely on sight or sound. 
+## [[Ethical Considerations and Limitations]]
 
 ## References 
 
